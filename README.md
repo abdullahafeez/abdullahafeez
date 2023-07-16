@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, Abdullah Hafeez here 👋</h1>
 <p align="center">With a beginner's zeal and a DevOps heart, I embark on a quest to weave the threads of development and operations into a tapestry of seamless efficiency.</p>
-<h1 align="center">💻 DevOps Stack</h1>
+<h1 align="center">💻 DevOps Tech Stack</h1>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
